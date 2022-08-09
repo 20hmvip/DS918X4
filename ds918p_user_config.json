@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "pid": "0x6310",
+        "vid": "0x325D",
+        "sn": "2010PDN567801",
+        "mac1": "001132C5AEBD"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
